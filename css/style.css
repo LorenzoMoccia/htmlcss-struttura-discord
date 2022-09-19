@@ -36,3 +36,13 @@
     background-color: rgb(218,165,32);
     
 }
+
+.container-header-bottom{
+    background-color: rgb(0,0,139);
+}
+
+.header-content{
+    width: 910px;
+    height: 395px;
+    background-color: rgb(238,130,238);
+}
