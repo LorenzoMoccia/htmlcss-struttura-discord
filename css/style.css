@@ -50,5 +50,49 @@
     height: 400px;
     background-color: rgb(238,130,238);
     justify-content: center;
+    border: 1px dashed black;
    
+}
+
+.prima{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    padding: 55px;
+}
+
+.container-blu{
+    width: 720px;
+    height: 505px;
+    background-color: rgb(30,144,255);
+    border: 1px dashed black;
+}
+
+.container-rosa{
+    width: 480px;
+    height: 505px;
+    background-color: rgb(255,192,203);
+    border: 1px dashed black;
+}
+
+.seconda{
+    height: 600px;
+    background-color: rgb(211,211,211);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.terza{
+    height: 1000px;
+    background-color: rgb(211,211,211);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-verde{
+    width: 1200px;
+    height: 900px;
+    background-color: rgb(34,139, 34);
 }
