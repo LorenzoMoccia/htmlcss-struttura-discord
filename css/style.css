@@ -39,10 +39,16 @@
 
 .container-header-bottom{
     background-color: rgb(0,0,139);
+    display: flex;
+    justify-content: center;
+    height: 505px;
+    padding: 50px;
 }
 
 .header-content{
-    width: 910px;
-    height: 395px;
+    width: 910px; 
+    height: 400px;
     background-color: rgb(238,130,238);
+    justify-content: center;
+   
 }
